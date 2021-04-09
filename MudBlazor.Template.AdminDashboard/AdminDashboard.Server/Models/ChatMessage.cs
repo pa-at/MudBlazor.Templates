@@ -1,5 +1,4 @@
-﻿
-namespace AdminDashboard.Server.Models
+﻿namespace AdminDashboard.Server.Models
 {
     public class ChatMessage
     {
